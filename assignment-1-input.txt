@@ -1,0 +1,6 @@
+BEGIN
+    INPUT a
+    INPUT b
+    SET hasil = a + b
+    PRINT "Hasil =", hasil
+END
